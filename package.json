@@ -1,0 +1,12 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesiona de JavaScript",
+  "license": "MIT",
+  "author": "Richard Vellojin",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {},
+  "devDependencies": {}
+}
